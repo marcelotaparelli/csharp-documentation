@@ -10,6 +10,7 @@ Isso significa que com essa ferramenta, <strong>conseguimos fazer consultas/pesq
 Aqui está um exemplo:
 
 \`\`\`csharp
+
 using System;
 using System.Linq;
 
