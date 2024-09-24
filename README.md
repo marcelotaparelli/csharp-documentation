@@ -11,7 +11,7 @@ Ela permite que desenvolvedores criem uma ampla variedade de aplicativos, inclui
 
 <br><br>
 
-<h3>Mas o que é uma plataforma?</h3>
+<h2>Mas o que é uma plataforma?</h2>
 
 Um plataforma <strong>é um ambiente que fornece as ferramentas, bibliotecas e recursos necessários para criar, desenvolver e executar aplicativos e serviços</strong>. 
 
@@ -20,7 +20,7 @@ Ela serve como uma base sobre a qual os desenvolvedores podem construir soluçõ
 <br><br>
 
 
-<h3>Principais Componentes do .NET</h3>
+<h2>Principais Componentes do .NET</h2>
 
 .NET Runtime: O runtime, como o Common Language Runtime (CLR), gerencia a execução de aplicativos .NET, incluindo coleta de lixo, segurança de tipos e gerenciamento de memória.
 
@@ -37,7 +37,7 @@ Xamarin/.NET MAUI: Ferramentas para o desenvolvimento de aplicativos móveis mul
 <br><br>
 
 
-<h3>Características do .NET</h3>
+<h2>Características do .NET</h2>
 
 Multiplataforma: Funciona em Windows, Linux e macOS.
 
@@ -144,7 +144,7 @@ var arrayPares = numeros.Where(n => n % 2 == 0).ToArray(); // Retorna int[]
 
 <br><br>
 
-<h3>Framework</h3>
+<h2>Framework</h2>
 
 Um framework é uma estrutura que fornece diretrizes e padrões para o desenvolvimento de uma aplicação completa. 
 
@@ -160,7 +160,7 @@ Spring: Para desenvolvimento de aplicações Java.
 
 <br><br><br><br>
 
-<h3>Biblioteca</h3> 
+<h2>Biblioteca</h2> 
 
 Uma biblioteca é um conjunto de funções ou métodos que você pode chamar para realizar tarefas específicas. 
 
@@ -174,7 +174,7 @@ D3.js: Para criação de visualizações de dados em JavaScript.
 
 <br><br><br><br>
 
-<h3>Diferença Principal</h3>  
+<h2>Diferença Principal</h2>  
 
 A principal diferença entre um framework e uma biblioteca está na <strong>inversão de controle</strong>:
 
