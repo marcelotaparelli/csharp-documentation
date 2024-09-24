@@ -1,7 +1,7 @@
 # csharp-documentation
 Aqui está uma documentação sobre meus estudos em .NET e C#! \o/  =)
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <h1>.NET</h1>
 
@@ -84,7 +84,7 @@ class Program
 
 ```
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <h2>Qual tipo o LINQ retorna?</h2>
 
