@@ -183,5 +183,5 @@ Biblioteca: Você chama o código da biblioteca. Você controla o fluxo da aplic
 
 <h3>Metáfora para Entender Melhor</h3>
 
-Biblioteca: É como ir a uma loja de ferramentas. Você escolhe as ferramentas que precisa e as usa como quiser.
+Biblioteca: É como ir a uma loja de ferramentas. Você escolhe as ferramentas que precisa e as usa como quiser. <br>
 Framework: É como construir uma casa com um conjunto de plantas-baixas. Você segue as diretrizes e padrões definidos pelo framework, mas ainda pode personalizar alguns aspectos.
