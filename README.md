@@ -3,9 +3,46 @@ Aqui está uma documentação sobre meus estudos em .NET e C#! \o/  =)
 
 <br><br><br><br>
 
+<h1>.NET</h1>
+
+O .NET é uma PLATAFORMA de desenvolvimento gratuita, de código aberto e multiplataforma (funciona em Windows, Linux e macOS) criada pela Microsoft. 
+
+Ela permite que desenvolvedores criem uma ampla variedade de aplicativos, incluindo aplicativos web, móveis, de desktop, jogos, IoT (Internet das Coisas), serviços em nuvem e microserviços.
+
+<h3>Mas o que é uma plataforma?</h3>
+
+Um plataforma <strong>é um ambiente que fornece as ferramentas, bibliotecas e recursos necessários para criar, desenvolver e executar aplicativos e serviços</strong>. Ela serve como uma base sobre a qual os desenvolvedores podem construir soluções tecnológicas.
+
+<h3>Principais Componentes do .NET</h3>
+
+.NET Runtime: O runtime, como o Common Language Runtime (CLR), gerencia a execução de aplicativos .NET, incluindo coleta de lixo, segurança de tipos e gerenciamento de memória.
+
+Bibliotecas: O .NET inclui uma vasta coleção de bibliotecas reutilizáveis, conhecidas como Framework Class Library (FCL), que fornecem funcionalidades comuns como manipulação de strings, acesso a dados, e muito mais.
+
+SDK e Ferramentas: O .NET SDK inclui ferramentas para compilar, construir e monitorar aplicativos .NET. Ferramentas como o Visual Studio e o Visual Studio Code oferecem ambientes de desenvolvimento integrados (IDEs) para facilitar o desenvolvimento.
+Linguagens de Programação: O .NET suporta várias linguagens de programação, incluindo C#, F#, e Visual Basic.
+
+ASP.NET: Um framework específico para o desenvolvimento de aplicativos web e APIs.
+
+Xamarin/.NET MAUI: Ferramentas para o desenvolvimento de aplicativos móveis multiplataforma.
+
+<h3>Características do .NET</h3>
+
+Multiplataforma: Funciona em Windows, Linux e macOS.
+
+Desempenho: Oferece alto desempenho e eficiência.
+
+Segurança: Inclui recursos de segurança robustos.
+
+Escalabilidade: Suporta a criação de aplicativos escaláveis e resilientes.
+
+Comunidade e Suporte: Possui uma grande comunidade de desenvolvedores e é mantido como um projeto de código aberto no GitHub.
+
+<br><br><br><br>
+
 <h1>LINQ</h1>
 
-LINQ significa <strong>Language Integrated Query</strong>, ou seja, Consulta Integrada à Linguagem. 
+LINQ é uma biblioteca da plataforma .NET e significa <strong>Language Integrated Query</strong>, ou seja, Consulta Integrada à Linguagem. 
 
 Isso significa que com essa ferramenta, <strong>conseguimos fazer consultas/pesquisas/queries como se estivéssemos usando a linguagem SQL, mas de maneira integrada à linguagem C#</strong>.
 
