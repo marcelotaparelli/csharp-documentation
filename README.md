@@ -138,3 +138,47 @@ var arrayPares = numeros.Where(n => n % 2 == 0).ToArray(); // Retorna int[]
 
 ```
 
+<br><br><br><br>
+
+<h1>LINQ é uma lib(biblioteca) enquanto ASP.NET é um framework, qual a diferença?</h1>
+
+<br><br>
+
+<h3>Framework</h3>
+
+Um framework é uma estrutura que fornece diretrizes e padrões para o desenvolvimento de uma aplicação completa. 
+
+Ele define a arquitetura da aplicação e oferece funcionalidades prontas que você pode usar. 
+
+O framework controla o fluxo da aplicação e chama o seu código quando necessário. Isso é conhecido como inversão de controle.
+
+Exemplos de Frameworks:
+
+ASP.NET: Para desenvolvimento web.
+Angular: Para desenvolvimento de aplicações web front-end.
+Spring: Para desenvolvimento de aplicações Java.
+
+
+<h3>Biblioteca</h3> 
+
+Uma biblioteca é um conjunto de funções ou métodos que você pode chamar para realizar tarefas específicas. 
+
+Diferente de um framework, você está no controle do fluxo da aplicação e decide quando e onde chamar a biblioteca.
+
+Exemplos de Bibliotecas:
+
+jQuery: Para manipulação de DOM e eventos em JavaScript.
+NumPy: Para computação numérica em Python.
+D3.js: Para criação de visualizações de dados em JavaScript.
+
+<h3>Diferença Principal</h3>  
+
+A principal diferença entre um framework e uma biblioteca está na <strong>inversão de controle</strong>:
+
+Framework: O framework chama o seu código. Ele define a estrutura e o fluxo da aplicação.
+Biblioteca: Você chama o código da biblioteca. Você controla o fluxo da aplicação.
+
+Metáfora para Entender Melhor:
+
+Biblioteca: É como ir a uma loja de ferramentas. Você escolhe as ferramentas que precisa e as usa como quiser.
+Framework: É como construir uma casa com um conjunto de plantas-baixas. Você segue as diretrizes e padrões definidos pelo framework, mas ainda pode personalizar alguns aspectos.
