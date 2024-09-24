@@ -49,7 +49,7 @@ Escalabilidade: Suporta a criação de aplicativos escaláveis e resilientes.
 
 Comunidade e Suporte: Possui uma grande comunidade de desenvolvedores e é mantido como um projeto de código aberto no GitHub.
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <h1>LINQ</h1>
 
@@ -84,7 +84,7 @@ class Program
 
 ```
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 <h2>Qual tipo o LINQ retorna?</h2>
 
