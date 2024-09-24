@@ -13,7 +13,9 @@ Ela permite que desenvolvedores criem uma ampla variedade de aplicativos, inclui
 
 <h3>Mas o que é uma plataforma?</h3>
 
-Um plataforma <strong>é um ambiente que fornece as ferramentas, bibliotecas e recursos necessários para criar, desenvolver e executar aplicativos e serviços</strong>. Ela serve como uma base sobre a qual os desenvolvedores podem construir soluções tecnológicas.
+Um plataforma <strong>é um ambiente que fornece as ferramentas, bibliotecas e recursos necessários para criar, desenvolver e executar aplicativos e serviços</strong>. 
+
+Ela serve como uma base sobre a qual os desenvolvedores podem construir soluções tecnológicas. Java e Node.js também são plataformas de desenvolvimento.
 
 <br><br>
 
