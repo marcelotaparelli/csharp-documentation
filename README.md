@@ -9,9 +9,14 @@ O .NET é uma PLATAFORMA de desenvolvimento gratuita, de código aberto e multip
 
 Ela permite que desenvolvedores criem uma ampla variedade de aplicativos, incluindo aplicativos web, móveis, de desktop, jogos, IoT (Internet das Coisas), serviços em nuvem e microserviços.
 
+<br><br>
+
 <h3>Mas o que é uma plataforma?</h3>
 
 Um plataforma <strong>é um ambiente que fornece as ferramentas, bibliotecas e recursos necessários para criar, desenvolver e executar aplicativos e serviços</strong>. Ela serve como uma base sobre a qual os desenvolvedores podem construir soluções tecnológicas.
+
+<br><br>
+
 
 <h3>Principais Componentes do .NET</h3>
 
@@ -25,6 +30,9 @@ Linguagens de Programação: O .NET suporta várias linguagens de programação,
 ASP.NET: Um framework específico para o desenvolvimento de aplicativos web e APIs.
 
 Xamarin/.NET MAUI: Ferramentas para o desenvolvimento de aplicativos móveis multiplataforma.
+
+<br><br>
+
 
 <h3>Características do .NET</h3>
 
