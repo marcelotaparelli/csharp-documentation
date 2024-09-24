@@ -181,7 +181,7 @@ A principal diferença entre um framework e uma biblioteca está na <strong>inve
 Framework: O framework chama o seu código. Ele define a estrutura e o fluxo da aplicação.
 Biblioteca: Você chama o código da biblioteca. Você controla o fluxo da aplicação.
 
-Metáfora para Entender Melhor:
+<h3>Metáfora para Entender Melhor</h3>
 
 Biblioteca: É como ir a uma loja de ferramentas. Você escolhe as ferramentas que precisa e as usa como quiser.
 Framework: É como construir uma casa com um conjunto de plantas-baixas. Você segue as diretrizes e padrões definidos pelo framework, mas ainda pode personalizar alguns aspectos.
