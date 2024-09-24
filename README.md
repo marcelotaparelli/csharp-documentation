@@ -26,7 +26,8 @@ Ela serve como uma base sobre a qual os desenvolvedores podem construir soluçõ
 
 Bibliotecas: O .NET inclui uma vasta coleção de bibliotecas reutilizáveis, conhecidas como Framework Class Library (FCL), que fornecem funcionalidades comuns como manipulação de strings, acesso a dados, e muito mais.
 
-SDK e Ferramentas: O .NET SDK inclui ferramentas para compilar, construir e monitorar aplicativos .NET. Ferramentas como o Visual Studio e o Visual Studio Code oferecem ambientes de desenvolvimento integrados (IDEs) para facilitar o desenvolvimento.
+SDK (Software Development Kit) e Ferramentas: O .NET SDK inclui ferramentas para compilar, construir e monitorar aplicativos .NET. Ferramentas como o Visual Studio e o Visual Studio Code oferecem ambientes de desenvolvimento integrados (IDEs) para facilitar o desenvolvimento. O Runtime do .NET está dentro do SDK, ou seja, instalando o SDK do .NET vc instala também o runtime.
+
 Linguagens de Programação: O .NET suporta várias linguagens de programação, incluindo C#, F#, e Visual Basic.
 
 ASP.NET: Um framework específico para o desenvolvimento de aplicativos web e APIs.
