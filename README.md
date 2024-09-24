@@ -1,6 +1,8 @@
 # csharp-documentation
 Aqui está uma documentação sobre meus estudos em .NET e C#! \o/  =)
 
+<br><br><br><br>
+
 <h1>LINQ</h1>
 
 LINQ significa <strong>Language Integrated Query</strong>, ou seja, Consulta Integrada à Linguagem. 
@@ -34,9 +36,13 @@ class Program
 
 ```
 
+<br><br><br><br>
+
 <h2>Qual tipo o LINQ retorna?</h2>
 
 O tipo de retorno de uma consulta LINQ depende do tipo de dados que está sendo consultado e das operações realizadas na consulta. Aqui estão alguns exemplos comuns:
+
+<br><br>
 
 1. IEnumerable<T>
 Quando você consulta uma coleção em memória, como uma lista ou um array, o LINQ geralmente retorna um IEnumerable<T>. Por exemplo:
@@ -48,6 +54,8 @@ var numerosPares = numeros.Where(n => n % 2 == 0); // Retorna IEnumerable<int>
 
 ```
 
+<br><br>
+
 2. IQueryable<T>
 Quando você consulta uma fonte de dados que suporta a execução de consultas remotas, como um banco de dados usando Entity Framework, o LINQ retorna um IQueryable<T>. Por exemplo:
 
@@ -57,7 +65,10 @@ using (var contexto = new MeuDbContext())
 {
     var clientes = contexto.Clientes.Where(c => c.Idade > 18); // Retorna IQueryable<Cliente>
 }
+
 ```
+
+<br><br>
 
 3. Tipos Anônimos
 Se a consulta seleciona propriedades específicas ou cria novos objetos, o LINQ pode retornar uma coleção de tipos anônimos. Por exemplo:
@@ -67,6 +78,7 @@ Se a consulta seleciona propriedades específicas ou cria novos objetos, o LINQ 
 var resultado = numeros.Select(n => new { Valor = n, Quadrado = n * n }); // Retorna IEnumerable<{ int Valor, int Quadrado }>
 
 ```
+<br><br>
 
 4. Tipos Específicos
 Você também pode projetar a consulta para retornar tipos específicos, como listas ou arrays:
