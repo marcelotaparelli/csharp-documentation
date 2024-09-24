@@ -158,6 +158,7 @@ ASP.NET: Para desenvolvimento web.
 Angular: Para desenvolvimento de aplicações web front-end.
 Spring: Para desenvolvimento de aplicações Java.
 
+<br><br><br><br>
 
 <h3>Biblioteca</h3> 
 
@@ -170,6 +171,8 @@ Exemplos de Bibliotecas:
 jQuery: Para manipulação de DOM e eventos em JavaScript.
 NumPy: Para computação numérica em Python.
 D3.js: Para criação de visualizações de dados em JavaScript.
+
+<br><br><br><br>
 
 <h3>Diferença Principal</h3>  
 
