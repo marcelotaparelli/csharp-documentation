@@ -9,7 +9,7 @@ Isso significa que com essa ferramenta, <strong>conseguimos fazer consultas/pesq
 
 Aqui está um exemplo:
 
-\`\`\`csharp
+```csharp
 
 using System;
 using System.Linq;
@@ -32,5 +32,5 @@ class Program
     }
 }
 
-\`\`\`
+```
 
