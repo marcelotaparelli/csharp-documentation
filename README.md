@@ -1,5 +1,5 @@
 # csharp-documentation
-Study documentation
+Aqui está uma documentação sobre meus estudos em .NET e C#! \o/  =)
 
 <h1>LINQ</h1>
 
