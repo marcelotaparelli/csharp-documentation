@@ -51,6 +51,14 @@ Comunidade e Suporte: Possui uma grande comunidade de desenvolvedores e é manti
 
 <br><br><br><br><br><br>
 
+<h1>INTEGER METHODS</h1>
+
+<h2>Quando precisar que uma variável tenha o menor valor da lógica</h2>
+
+Use <strong>int.MinValue</strong>
+
+<br><br><br><br><br><br>
+
 <h1>LINQ</h1>
 
 LINQ é uma biblioteca da plataforma .NET e significa <strong>Language Integrated Query</strong>, ou seja, Consulta Integrada à Linguagem. 
