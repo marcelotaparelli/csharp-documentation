@@ -57,6 +57,24 @@ Comunidade e Suporte: Possui uma grande comunidade de desenvolvedores e é manti
 
 Use <strong>String.Sort(yourArray)</strong>
 
+<br><br>
+
+<h2>Para encontrar um valor máximo</h2>
+
+Use <strong>nomeDaSuaArray.Max(função)</strong> exemplo de função para achar a maior length dentro de uma array: str => str.Length)
+
+<br><br>
+
+<h2>Para transformar em uma array</h2>
+
+Use <strong>seuObjeto.ToArray()</strong>
+
+<br><br>
+
+<h2>Para filtrar uma array</h2>
+
+Use <strong>suaArray.Where(função)</strong> exemplo de função para achar as strings que tenham mais de 4 chars: str =: str.Length > 4
+
 <br><br><br><br><br><br>
 
 <h1>INTEGER METHODS</h1>
