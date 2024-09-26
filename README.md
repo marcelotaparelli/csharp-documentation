@@ -65,6 +65,17 @@ Use <strong>String.Sort(yourArray)</strong>
 
 Use <strong>int.MinValue</strong>
 
+
+<br><br><br><br><br><br>
+
+
+<h1>LOOPS</h1>
+
+<h2>Interrupções de loops</h2>
+
+Use <strong>break</strong> para parar o loop e <strong>continue</strong> para ir para a próxima iteração.
+
+
 <br><br><br><br><br><br>
 
 <h1>LINQ</h1>
