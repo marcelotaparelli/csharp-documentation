@@ -59,6 +59,14 @@ Use <strong>String.Sort(yourArray)</strong>
 
 <br><br>
 
+<br><br>
+
+<h2>Para encontrar o valor máximo ou mínimo</h2>
+
+Use <strong>nomeDaSuaArray.Max()</strong> ou <strong>nomeDaSuaArray.Min()</strong>. Estas são funções que precisam de "using System.Linq"
+
+<br><br>
+
 <h2>Para encontrar um valor máximo</h2>
 
 Use <strong>nomeDaSuaArray.Max(função)</strong> exemplo de função para achar a maior length dentro de uma array: str => str.Length)
