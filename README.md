@@ -69,8 +69,6 @@ Use <strong>String.Sort(yourArray)</strong>
 
 <br><br>
 
-<br><br>
-
 <h2>Para encontrar o valor máximo ou mínimo</h2>
 
 Use <strong>nomeDaSuaArray.Max()</strong> ou <strong>nomeDaSuaArray.Min()</strong>. Estas são funções que precisam de "using System.Linq"
