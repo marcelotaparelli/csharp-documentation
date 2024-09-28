@@ -128,7 +128,7 @@ Use <strong>break</strong> para parar o loop e <strong>continue</strong> para ir
 
 <h2>Para criar</h2>
 
-Use <strong>Disctionary<int, string> variableName = new();</strong>.
+Use <strong>Dictionary<int, string> variableName = new();</strong>.
 
 <br><br>
 
