@@ -51,6 +51,16 @@ Comunidade e Suporte: Possui uma grande comunidade de desenvolvedores e é manti
 
 <br><br><br><br><br><br>
 
+<h1>STRING METHODS</h1>
+
+<h2>Para saber se a string é nula ou vazia</h2>
+
+Use <strong>string.IsNullOrEmpty(yourString)</strong>
+
+<br><br>
+
+<br><br><br><br><br><br>
+
 <h1>ARRAY METHODS</h1>
 
 <h2>Para ordenar uma array</h2>
@@ -96,6 +106,12 @@ Use <strong>int.MinValue</strong>
 <h2>Para fazer o módulo, ou converter no número absoluto</h2>
 
 Use <strong>Math.Abs(seuNumero)</strong>.
+
+<br><br>
+
+<h2>Para transformar uma string em int</h2>
+
+Use <strong>int.TryParse(yourString, out int num)</strong>. A função retorna um bool para sucesso e tem como saída a variável num.
 
 
 <br><br><br><br><br><br>
