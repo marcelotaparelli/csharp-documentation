@@ -96,6 +96,26 @@ Use <strong>break</strong> para parar o loop e <strong>continue</strong> para ir
 
 <br><br><br><br><br><br>
 
+<h1>Dicionário</h1>
+
+<h2>Para criar</h2>
+
+Use <strong>Disctionary<int, string> variableName = new();</strong>.
+
+<br><br>
+
+<h2>Para acessar valores e chaves</h2>
+
+Use <strong>seuDicionario.Values</strong> e <strong>seuDicionario.Keys</strong>.
+
+<br><br>
+
+<h2>Para saber se contém alguma chave</h2>
+
+Use <strong>seuDicionario.ContainsKey(chave)</strong>.
+
+<br><br><br><br><br><br>
+
 <h1>LINQ</h1>
 
 LINQ é uma biblioteca da plataforma .NET e significa <strong>Language Integrated Query</strong>, ou seja, Consulta Integrada à Linguagem. 
