@@ -83,6 +83,12 @@ Use <strong>suaArray.Where(função)</strong> exemplo de função para achar as 
 
 Use <strong>int.MinValue</strong>
 
+<br><br>
+
+<h2>Para fazer o módulo, ou converter no número absoluto</h2>
+
+Use <strong>Math.Abs(seuNumero)</strong>.
+
 
 <br><br><br><br><br><br>
 
