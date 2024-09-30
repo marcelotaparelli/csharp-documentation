@@ -147,7 +147,7 @@ Use <strong>HashSet<tipo de variavel> nome da variavel = new()</strong>
 
 <h2>Para eliminar duplicatas de uma List</h2>
 
-Caso você tenha uma List<string> com dados duplicados, vc pode transformar essa List em HashSet e as duplicatas serão eliminadas, exemplo: <strong>HashSet<string> nomeDoHashSet = new HashSet<string>(nomeDaList)</strong>.
+Caso você tenha uma List<string> com dados duplicados, vc pode transformar essa List em HashSet e as duplicatas serão eliminadas, exemplo: <strong>HashSet<tipo> nomeDoHashSet = new HashSet<tipo>(nomeDaList)</strong>.
 
 <br><br>
 
