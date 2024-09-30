@@ -79,7 +79,7 @@ Use <strong>suaArray.Length</strong>
 
 <h2>Para ordenar uma array</h2>
 
-Use <strong>String.Sort(yourArray)</strong>
+Use <strong>Array.Sort(yourArray)</strong>
 
 <br><br>
 
