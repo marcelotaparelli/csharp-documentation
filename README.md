@@ -135,13 +135,13 @@ Use <strong>int.TryParse(yourString, out int num)</strong>. A função retorna u
 
 <h2>Características</h2>
 
-HashSets são similares a Lists mas naturalmente<strong>aceitam apenas valores únicas, não permitindo a duplicação de dados iguais</strong>.
+HashSets são similares a Lists mas naturalmente <strong>aceitam apenas valores únicos, não permitindo a duplicação de dados iguais</strong>.
 
 <br><br>
 
 <h2>Para criar</h2>
 
-Use <strong>HashSet<tipo de variavel>nome da variavel = new()</strong> para parar o loop e <strong>continue</strong> para ir para a próxima iteração.
+Use <strong>HashSet<tipo de variavel> nome da variavel = new()</strong>
 
 <br><br>
 
