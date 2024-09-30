@@ -59,9 +59,23 @@ Use <strong>string.IsNullOrEmpty(yourString)</strong>
 
 <br><br>
 
+<h2>Para dividir uma string</h2>
+
+Use <strong>suaString.Split('coloque aqui o char que vai ser a referência da divisão')</strong>
+
+<br><br>
+
 <br><br><br><br><br><br>
 
 <h1>ARRAY METHODS</h1>
+
+<h2>Para saber quantos elementos tem uma array</h2>
+
+Use <strong>suaArray.Length</strong>
+
+<br><br>
+
+<br><br>
 
 <h2>Para ordenar uma array</h2>
 
