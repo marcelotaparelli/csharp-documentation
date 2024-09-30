@@ -173,6 +173,18 @@ Use nomeDoHashSet.Contains("valorQueDesejaConsultar")
 
 <br><br>
 
+<h3>Para unir dois HashSets</h3>
+
+Use nomeDoHashSet1.UnionWith("nomeDoHashSet2")
+
+<br><br>
+
+<h3>Para a intersecção de dois HashSets</h3>
+
+Use nomeDoHashSet1.IntersectWith("nomeDoHashSet2")
+
+<br><br>
+
 <br><br><br><br><br><br>
 
 
