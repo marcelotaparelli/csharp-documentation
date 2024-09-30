@@ -141,7 +141,7 @@ HashSets são similares a Lists mas naturalmente <strong>aceitam apenas valores 
 
 <h2>Para criar</h2>
 
-Use <strong>HashSet<tipo de variavel> nome da variavel = new()</strong>
+Use <strong>HashSet<tipo> nome da variavel = new()</strong>
 
 <br><br>
 
