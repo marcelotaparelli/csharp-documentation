@@ -126,6 +126,31 @@ Use <strong>Math.Abs(seuNumero)</strong>.
 Use <strong>int.TryParse(yourString, out int num)</strong>. A função retorna um bool para sucesso e tem como saída a variável num.
 
 
+
+<br><br><br><br><br><br>
+
+
+
+<h1>HASHSET</h1>
+
+<h2>Características</h2>
+
+HashSets são similares a Lists mas naturalmente<strong>aceitam apenas valores únicas, não permitindo a duplicação de dados iguais</strong>.
+
+<br><br>
+
+<h2>Para criar</h2>
+
+Use <strong>HashSet<tipo de variavel>nome da variavel = new()</strong> para parar o loop e <strong>continue</strong> para ir para a próxima iteração.
+
+<br><br>
+
+<h2>Para eliminar duplicatas de uma List</h2>
+
+Caso você tenha uma List<string> com dados duplicados, vc pode transformar essa List em HashSet e as duplicatas serão eliminadas, exemplo: <strong>HashSet<string> nomeDoHashSet = new HashSet<string>(nomeDaList)</strong>.
+
+<br><br>
+
 <br><br><br><br><br><br>
 
 
