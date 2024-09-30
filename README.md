@@ -141,13 +141,13 @@ HashSets são similares a Lists mas naturalmente <strong>aceitam apenas valores 
 
 <h2>Para criar</h2>
 
-Use <strong>HashSet<tipo> nome da variavel = new()</strong>
+Use <strong>HashSet&lt;tipoDeVariavel&gt; nome da variavel = new()</strong>
 
 <br><br>
 
 <h2>Para eliminar duplicatas de uma List</h2>
 
-Caso você tenha uma List<string> com dados duplicados, vc pode transformar essa List em HashSet e as duplicatas serão eliminadas, exemplo: <strong>HashSet<tipo> nomeDoHashSet = new HashSet<tipo>(nomeDaList)</strong>.
+Caso você tenha uma List&lt;string&gt; com dados duplicados, vc pode transformar essa List em HashSet e as duplicatas serão eliminadas, exemplo: <strong>HashSet&lt;string&gt; nomeDoHashSet = new HashSet&lt;string&gt;(nomeDaList)</strong>.
 
 <br><br>
 
