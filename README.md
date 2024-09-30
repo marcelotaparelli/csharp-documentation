@@ -1,6 +1,8 @@
 # csharp-documentation
 Aqui está uma documentação sobre meus estudos em .NET e C#! \o/  =)
 
+
+
 <br><br><br><br><br><br>
 
 <h1>.NET</h1>
@@ -49,7 +51,11 @@ Escalabilidade: Suporta a criação de aplicativos escaláveis e resilientes.
 
 Comunidade e Suporte: Possui uma grande comunidade de desenvolvedores e é mantido como um projeto de código aberto no GitHub.
 
+
+
 <br><br><br><br><br><br>
+
+
 
 <h1>STRING METHODS</h1>
 
@@ -65,7 +71,11 @@ Use <strong>suaString.Split('coloque aqui o char que vai ser a referência da di
 
 <br><br>
 
+
+
 <br><br><br><br><br><br>
+
+
 
 <h1>ARRAY METHODS</h1>
 
@@ -105,7 +115,11 @@ Use <strong>seuObjeto.ToArray()</strong>
 
 Use <strong>suaArray.Where(função)</strong> exemplo de função para achar as strings que tenham mais de 4 chars: str =: str.Length > 4
 
+
+
 <br><br><br><br><br><br>
+
+
 
 <h1>INTEGER METHODS</h1>
 
@@ -148,6 +162,14 @@ Use <strong>HashSet&lt;tipoDeVariavel&gt; nome da variavel = new()</strong>
 <h2>Para eliminar duplicatas de uma List</h2>
 
 Caso você tenha uma List&lt;string&gt; com dados duplicados, vc pode transformar essa List em HashSet e as duplicatas serão eliminadas, exemplo: <strong>HashSet&lt;string&gt; nomeDoHashSet = new HashSet&lt;string&gt;(nomeDaList)</strong>.
+
+<br><br>
+
+<h2>Métodos</h2>
+
+<h3>Para checar se um valor existe</h3>
+
+Use nomeDoHashSet.Contains("valorQueDesejaConsultar")
 
 <br><br>
 
