@@ -115,7 +115,11 @@ Use <strong>seuObjeto.ToArray()</strong>
 
 Use <strong>suaArray.Where(função)</strong> exemplo de função para achar as strings que tenham mais de 4 chars: str =: str.Length > 4
 
+<br><br>
 
+<h2>Para conferir se todos os elementos de uma array satisfazem uma condição</h2>
+
+Use <strong>suaArray.All(função)</strong>
 
 <br><br><br><br><br><br>
 
