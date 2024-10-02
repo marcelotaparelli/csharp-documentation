@@ -189,7 +189,10 @@ Use nomeDoHashSet1.IntersectWith("nomeDoHashSet2")
 
 <br><br>
 
+
+
 <br><br><br><br><br><br>
+
 
 
 <h1>LOOPS</h1>
@@ -199,13 +202,26 @@ Use nomeDoHashSet1.IntersectWith("nomeDoHashSet2")
 Use <strong>break</strong> para parar o loop e <strong>continue</strong> para ir para a próxima iteração.
 
 
+
 <br><br><br><br><br><br>
+
 
 <h1>Dicionário</h1>
 
 <h2>Para criar</h2>
 
 Use <strong>Dictionary<int, string> variableName = new();</strong>.
+
+Para já definir valores use:
+
+private Dictionary<string, string> daysOfTheWeek = new ()
+{
+    { "Segunda-feira" , "Monday" },
+    { "Terça-feira" , "Tuesday" },
+    { "Quarta-feira" , "Wednesday" },
+    { "Quinta-feira" , "Thursday" },
+    { "Sexta-feira" , "Friday" }
+};
 
 <br><br>
 
