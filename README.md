@@ -212,16 +212,16 @@ Use <strong>break</strong> para parar o loop e <strong>continue</strong> para ir
 
 Use <strong>Dictionary<int, string> variableName = new();</strong>.
 
-Para já definir valores use:
+Para já definir valores use: <br><br>
 
-private Dictionary<string, string> daysOfTheWeek = new ()
-{
-    { "Segunda-feira" , "Monday" },
-    { "Terça-feira" , "Tuesday" },
-    { "Quarta-feira" , "Wednesday" },
-    { "Quinta-feira" , "Thursday" },
-    { "Sexta-feira" , "Friday" }
-};
+private Dictionary<string, string> daysOfTheWeek = new ()<br>
+{<br>
+    { "Segunda-feira" , "Monday" },<br>
+    { "Terça-feira" , "Tuesday" },<br>
+    { "Quarta-feira" , "Wednesday" },<br>
+    { "Quinta-feira" , "Thursday" },<br>
+    { "Sexta-feira" , "Friday" }<br>
+};<br>
 
 <br><br>
 
